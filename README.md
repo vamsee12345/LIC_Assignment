@@ -3,7 +3,7 @@
 A Retrieval-Augmented Generation (RAG) system for answering questions about LIC (Life Insurance Corporation) documents using web-scraped data and adaptive hybrid search.
 
 ## **Final System Performance**
-- **Accuracy**: 56% (14/25 correct) - **+75% improvement** from 32% baseline
+- **Accuracy**: 68% (17/25 correct) 
 - **Semantic Similarity**: 54.8%
 - **Model**: google/flan-t5-large (780M parameters)
 - **Retrieval**: Adaptive Hybrid Search (FAISS + BM25)

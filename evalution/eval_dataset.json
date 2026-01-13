@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "type": "eligibility",
+    "question": "Who is eligible to purchase LIC Jeevan Umang?",
+    "expected_answer": "Minimum and maximum entry age conditions apply as specified in LIC Jeevan Umang eligibility.",
+    "source_url": "https://licindia.in/web/guest/whole-life-plans"
+  },
+  {
+    "id": 2,
+    "type": "benefits",
+    "question": "What benefits are payable under LIC endowment plans?",
+    "expected_answer": "Endowment plans provide survival benefits during the policy term and maturity benefits at the end.",
+    "source_url": "https://licindia.in/web/guest/endowment-plans"
+  },
+  {
+    "id": 3,
+    "type": "unanswerable",
+    "question": "What is the GST rate applied on LIC premiums?",
+    "expected_answer": "Information not available in the provided documents.",
+    "source_url": null
+  },
+  {
+    "id": 4,
+    "type": "factual",
+    "question": "What is LIC's New Endowment Plan code number?",
+    "expected_answer": "LIC's New Endowment Plan code is 714.",
+    "source_url": "https://licindia.in/web/guest/endowment-plans"
+  },
+  {
+    "id": 5,
+    "type": "eligibility",
+    "question": "What is the minimum entry age for LIC's Jeevan Labh plan?",
+    "expected_answer": "Minimum entry age varies by policy term, typically starting from 8 years.",
+    "source_url": "https://licindia.in/web/guest/endowment-plans"
+  },
+  {
+    "id": 6,
+    "type": "eligibility",
+    "question": "What is the maximum entry age for LIC's term insurance plans?",
+    "expected_answer": "Maximum entry age typically ranges from 60-65 years depending on the specific term plan.",
+    "source_url": "https://licindia.in/web/guest/term-assurance-plans"
+  },
+  {
+    "id": 7,
+    "type": "benefits",
+    "question": "What are the maturity benefits under LIC's Jeevan Anand plan?",
+    "expected_answer": "Sum assured plus accumulated bonuses are paid as maturity benefit.",
+    "source_url": "https://licindia.in/web/guest/whole-life-plans"
+  },
+  {
+    "id": 8,
+    "type": "benefits",
+    "question": "Does LIC provide death benefits to nominees?",
+    "expected_answer": "Yes, death benefit includes sum assured plus bonuses payable to the nominee.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 9,
+    "type": "factual",
+    "question": "What types of insurance plans does LIC offer?",
+    "expected_answer": "LIC offers endowment plans, whole life plans, term assurance plans, money back plans, pension plans, and health plans.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 10,
+    "type": "factual",
+    "question": "What is the LIC Single Premium Endowment Plan code?",
+    "expected_answer": "LIC's Single Premium Endowment Plan code is 917.",
+    "source_url": "https://licindia.in/web/guest/endowment-plans"
+  },
+  {
+    "id": 11,
+    "type": "multi-condition",
+    "question": "Can a person aged 58 years purchase LIC Jeevan Umang with a 30-year premium payment term?",
+    "expected_answer": "No, the maximum entry age for Jeevan Umang is typically 55 years.",
+    "source_url": "https://licindia.in/web/guest/whole-life-plans"
+  },
+  {
+    "id": 12,
+    "type": "multi-condition",
+    "question": "What happens if a policyholder dies during the premium payment term of an endowment plan?",
+    "expected_answer": "Death benefit including sum assured and bonuses is paid to the nominee.",
+    "source_url": "https://licindia.in/web/guest/endowment-plans"
+  },
+  {
+    "id": 13,
+    "type": "comparative",
+    "question": "What is the difference between term assurance and endowment plans?",
+    "expected_answer": "Term assurance provides only death cover, while endowment plans provide both death cover and maturity benefits.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 14,
+    "type": "comparative",
+    "question": "How do whole life plans differ from endowment plans?",
+    "expected_answer": "Whole life plans provide coverage for the entire lifetime, while endowment plans have a fixed term.",
+    "source_url": "https://licindia.in/web/guest/whole-life-plans"
+  },
+  {
+    "id": 15,
+    "type": "eligibility",
+    "question": "Are there any medical requirements for purchasing LIC policies?",
+    "expected_answer": "Medical examination requirements depend on age and sum assured, as per LIC underwriting guidelines.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 16,
+    "type": "factual",
+    "question": "What is LIC's New Jeevan Anand plan code?",
+    "expected_answer": "LIC's New Jeevan Anand plan code is 915.",
+    "source_url": "https://licindia.in/web/guest/whole-life-plans"
+  },
+  {
+    "id": 17,
+    "type": "benefits",
+    "question": "Do LIC plans provide tax benefits?",
+    "expected_answer": "LIC premiums qualify for tax deduction under Section 80C and maturity proceeds are exempt under Section 10(10D).",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 18,
+    "type": "multi-condition",
+    "question": "Can a minor child be the policyholder of an LIC plan?",
+    "expected_answer": "No, minors cannot be policyholders, but they can be life assured with parent/guardian as proposer.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 19,
+    "type": "unanswerable",
+    "question": "What is the current stock price of LIC on NSE?",
+    "expected_answer": "Information not available in the provided documents.",
+    "source_url": null
+  },
+  {
+    "id": 20,
+    "type": "unanswerable",
+    "question": "How do I apply for a loan against my LIC policy?",
+    "expected_answer": "Information not available in the provided documents.",
+    "source_url": null
+  },
+  {
+    "id": 21,
+    "type": "factual",
+    "question": "What are money back plans in LIC?",
+    "expected_answer": "Money back plans provide periodic survival benefits during the policy term along with death cover.",
+    "source_url": "https://licindia.in/web/guest/money-back-plans"
+  },
+  {
+    "id": 22,
+    "type": "eligibility",
+    "question": "What is the minimum sum assured required for LIC term plans?",
+    "expected_answer": "Minimum sum assured varies by plan, typically starting from Rs. 25 lakhs or Rs. 50 lakhs.",
+    "source_url": "https://licindia.in/web/guest/term-assurance-plans"
+  },
+  {
+    "id": 23,
+    "type": "comparative",
+    "question": "Which is better for long-term savings - endowment or money back plans?",
+    "expected_answer": "Endowment plans provide higher maturity benefits, while money back plans provide periodic liquidity.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 24,
+    "type": "multi-condition",
+    "question": "Can an NRI purchase LIC policies online?",
+    "expected_answer": "NRI eligibility and purchase channels depend on residential status and specific plan requirements.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 25,
+    "type": "unanswerable",
+    "question": "What was LIC's total premium collection last financial year?",
+    "expected_answer": "Information not available in the provided documents.",
+    "source_url": null
+  }
+]

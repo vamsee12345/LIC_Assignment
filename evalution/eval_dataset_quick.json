@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "type": "eligibility",
+    "question": "Who is eligible to purchase LIC Jeevan Umang?",
+    "expected_answer": "Minimum and maximum entry age conditions apply as specified in LIC Jeevan Umang eligibility.",
+    "source_url": "https://licindia.in/web/guest/whole-life-plans"
+  },
+  {
+    "id": 2,
+    "type": "benefits",
+    "question": "What benefits are payable under LIC endowment plans?",
+    "expected_answer": "Endowment plans provide survival benefits during the policy term and maturity benefits at the end.",
+    "source_url": "https://licindia.in/web/guest/endowment-plans"
+  },
+  {
+    "id": 3,
+    "type": "factual",
+    "question": "What types of insurance plans does LIC offer?",
+    "expected_answer": "LIC offers endowment plans, whole life plans, term assurance plans, money back plans, pension plans, and health plans.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 4,
+    "type": "comparative",
+    "question": "What is the difference between term assurance and endowment plans?",
+    "expected_answer": "Term assurance provides only death cover, while endowment plans provide both death cover and maturity benefits.",
+    "source_url": "https://licindia.in/web/guest/products"
+  },
+  {
+    "id": 5,
+    "type": "unanswerable",
+    "question": "What is the GST rate applied on LIC premiums?",
+    "expected_answer": "Information not available in the provided documents.",
+    "source_url": null
+  }
+]
